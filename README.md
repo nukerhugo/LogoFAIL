@@ -26,4 +26,6 @@ This project does not contain any mailcious code. This project is for educationa
 =====================================
 Shoutout to Binarly for original research
 -----------------------------------------
+LogoFAIL is a security exploit that allows binary code execution during the boot section. Our program tries to do that.
+-----------------------------------------
 A project by Nukerhugo
