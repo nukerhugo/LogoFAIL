@@ -1,8 +1,9 @@
 We Remade LogoFAIL and made it public.
 -------------------------------------
 Credits:
-=====================================
+-------------------------------------
 Devs:
+-------------------------------------
 Nukerhugo - Head developer
 Neo - Co-head developer
 RickedWifiMan - developer
