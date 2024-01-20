@@ -1,7 +1,10 @@
-We Remade LogoFAIL and made it public.
+We Remade LogoFAIL and made it public
+-------------------------------------
+HIRING!
+-------------------------------------
+If you like to work on this project you are welcome to join. Just leave a message on this repository.
 -------------------------------------
 Credits:
--------------------------------------
 Devs:
 -------------------------------------
 Nukerhugo - Head developer
